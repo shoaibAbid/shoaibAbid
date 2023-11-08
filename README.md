@@ -25,7 +25,11 @@
 <!-- Certifications Section -->
 <h3 align="left">Certifications</h3>
 <p align="left">
-   <!-- Add your certification image and link here -->
-   ![DSA Certification](Pics/Linux.PNG)
-   [DSA](https://www.datacamp.com/completed/statement-of-accomplishment/course/9858f2b6cd0d0fe4f9a0cad0044535c912aba74c)
+  
+   - [Data Structures and Algorithms in Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/9858f2b6cd0d0fe4f9a0cad0044535c912aba74c)
+
+   - [Object-Oriented Programming in Python from DataCamp](https://www.datacamp.com/completed/statement-of-accomplishment/course/5966efbf7a12102e3af46b47e3a7266a8ae2ece7)
+
+   - [SQL Certification from DataCamp](https://www.datacamp.com/completed/statement-of-accomplishment/course/your-sql-course-id)
 </p>
+
