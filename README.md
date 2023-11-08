@@ -26,6 +26,6 @@
 <h3 align="left">Certifications</h3>
 <p align="left">
    <!-- Add your certification image and link here -->
-   ![DSA Certification](Images/DSA.PNG)
+   ![DSA Certification](Pics/Linux.PNG)
    [DSA](https://www.datacamp.com/completed/statement-of-accomplishment/course/9858f2b6cd0d0fe4f9a0cad0044535c912aba74c)
 </p>
