@@ -30,7 +30,7 @@
 
    - [Object-Oriented Programming in Python from DataCamp](https://www.datacamp.com/completed/statement-of-accomplishment/course/5966efbf7a12102e3af46b47e3a7266a8ae2ece7)
 
-   - [SQL Certification from DataCamp](https://www.datacamp.com/completed/statement-of-accomplishment/course/your-sql-course-id)
+   - [SQL Certification from DataCamp](https://www.datacamp.com/completed/statement-of-accomplishment/course/51dabe6d0af082ec6aa613e3f0316201394a25a0)
    - [SQL Joins Certification from Great Learning](https://olympus.mygreatlearning.com/courses/53842/certificate)
    - [Linux Certification from Great Learning ](https://olympus.mygreatlearning.com/courses/52823/certificate)
 </p>
